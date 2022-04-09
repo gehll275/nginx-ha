@@ -1,5 +1,5 @@
 # nginx-ha
-nginx failover utilizing keepalvied.
+nginx failover utilizing keepalived.
 
 This project is a clone of [https://github.com/asir/dnsmasq-ha](https://github.com/dnsmasq-ha) but modified to work with Nginx.
 
